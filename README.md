@@ -1,0 +1,1 @@
+# TUF-Z690-WIFI-D4-i7-12700k-hackintosh
