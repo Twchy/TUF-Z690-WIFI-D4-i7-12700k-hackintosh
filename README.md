@@ -1,1 +1,5 @@
-# TUF-Z690-WIFI-D4-i7-12700k-hackintosh
+# ASUS TUF GAMING Z690 PLUS WIFI D4 HACKINTOSH
+
+![SS](https://github.com/Twchy/TUF-Z690-WIFI-D4-i7-12700k-hackintosh/assets/73661163/0c5a3916-52d5-49cb-ab19-4172180655af)
+
+
